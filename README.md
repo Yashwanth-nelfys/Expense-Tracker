@@ -1,20 +1,68 @@
-<<<<<<< HEAD
-# expense_tracker
+# Expense Tracker – Flutter App 💸
 
-A new Flutter project.
+A cross-platform **Flutter Expense Tracker application** that helps users
+track daily expenses, categorize spending, and view summaries with a clean
+and intuitive UI.
 
-## Getting Started
+This app is built using Flutter and works on **Android and iOS** from a single
+codebase.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Add, edit, and delete expenses
+- Expense categories
+- Daily / monthly expense summary
+- Clean and responsive UI
+- Offline support (local storage)
+- Additional Calculators - EMI and Interest Calculator
+- Dark And Light Theme 🌙
+- Export to PDF and CSV
+- Advanced Analytics
+- Financial Goals
+- Cross-platform (Android & iOS)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Expense-Tracker
->>>>>>> d8940f272a698c93658639d9a7e5accbe5b49028
+---
+
+## 🛠️ Tech Stack
+
+- Flutter (Dart)
+- State Management: (GetX )
+- Local Storage: (GetStorage / SQLite)
+
+---
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="screenshots/home.png" width="250"/></td>
+    <td><img src="screenshots/add_expense.png" width="250"/></td>
+    <td><img src="screenshots/category.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center">Home Screen</td>
+    <td align="center">Add Expense</td>
+    <td align="center">Categories</td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Android Studio / VS Code
+- Android Emulator or Physical Device
+
+### Installation
+
+```bash
+git clone https://github.com/Yashwanth-nelfys/Expense-Tracker.git
+cd Expense-Tracker
+flutter pub get
+flutter run
+```

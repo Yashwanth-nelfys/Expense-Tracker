@@ -37,14 +37,34 @@ codebase.
 
 <table>
   <tr>
-    <td><img src="screenshots/home.png" width="250"/></td>
-    <td><img src="screenshots/add_expense.png" width="250"/></td>
-    <td><img src="screenshots/category.png" width="250"/></td>
+    <td><img src="screenshots/empty-lst-left.png" width="250"/></td>
+    <td><img src="screenshots/add_expense-left.png" width="250"/></td>
+    <td><img src="screenshots/expense-lst-left.png" width="250"/></td>
   </tr>
   <tr>
     <td align="center">Home Screen</td>
     <td align="center">Add Expense</td>
-    <td align="center">Categories</td>
+    <td align="center">Expense List</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/analytics-left.png" width="250"/></td>
+    <td><img src="screenshots/advanced_analy-left.png" width="250"/></td>
+    <td><img src="screenshots/advanced_analy-2-left.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center">Analytics with export options</td>
+    <td align="center">Advanced Analytics</td>
+    <td align="center">Advanced Analytics</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Emi--left.png" width="250"/></td>
+    <td><img src="screenshots/epense-1-left.png" width="250"/></td>
+    <td><img src="screenshots/goals-left.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center">EMI Calculator</td>
+    <td align="center">Interest Calculator</td>
+    <td align="center">Goals</td>
   </tr>
 </table>
 
